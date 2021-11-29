@@ -1,7 +1,7 @@
 package main
 
 import (
-	"hexagonal/app"
+	"golang-hexagonal/app"
 )
 
 type Customer struct {

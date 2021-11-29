@@ -1,4 +1,4 @@
-module hexagonal
+module golang-hexagonal
 
 go 1.17
 

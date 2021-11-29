@@ -2,7 +2,7 @@ package app
 
 import (
 	"net/http"
-	"hexagonal/data"
+	"golang-hexagonal/data"
 
 	"github.com/gorilla/mux"
 )
